@@ -1,0 +1,3 @@
+easyWords = ["kyle", "pull", "sell", "only", "open", "more", "nose", "like", "life", "sale", "push", "city", "zaps", "yaks","yams", "wade", "vain", "ugly", "uber", "jack"] #Four Letter Hangman Words
+mediumWords = ["ability", "backing", "cabinet", "bearing", "capture", "disease", "company", "consent", "failure", "genetic", "silence", "reality", "sustain", "venture", "working", "burgers", "running", "vehicle", "violent", "webcast"] #Seven Letter Hangman Words
+hardWords = ["razzmatazz", "subjective", "jazzercise", "pickleball", "buzzworthy", "puzzlingly", "squeezebox", "whizzbangs", "buckjumped", "embezzling", "mumbojumbo", "unmuzzling", "unpuzzling", "blackjacks", "buckjumper", "buzzphrase", "dizzyingly", "puzzlement", "schemozzle", "scuzzballs"] #Ten Letter Hangman Words
